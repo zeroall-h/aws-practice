@@ -1,0 +1,14 @@
+{
+  "main": {
+    "name": "운영",
+    "bucket": "amzn-rabbit",
+    "cloudfrontDistributionId": "",
+    "url": "http://amzn-rabbit.s3-website-ap-southeast-2.amazonaws.com"
+  },
+  "develop": {
+    "name": "개발",
+    "bucket": "amzn-rabbit-dev",
+    "cloudfrontDistributionId": "",
+    "url": "http://amzn-rabbit-dev.s3-website-ap-southeast-2.amazonaws.com"
+  }
+}
